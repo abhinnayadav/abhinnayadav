@@ -20,7 +20,7 @@ Quick learner | Lusting for new technologies | Great Team Player | Want to colla
  
  ⚡ Fun fact: I have spent a complete day debugging a code which only had a semi-colon missing. :-P
 
-![aditya113141 github stats](https://github-readme-stats.vercel.app/api?username=abhinnayadav&&show_icons=true&title_color=005932&icon_color=354c33&text_color=80a26f&bg_color=bcecb9)
+![abhinnayadav github stats](https://github-readme-stats.vercel.app/api?username=abhinnayadav&&show_icons=true&title_color=005932&icon_color=354c33&text_color=80a26f&bg_color=bcecb9)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinnayadav&title_color=005932&icon_color=354c33&text_color=80a26f&bg_color=bcecb9&layout=compact&hide=css)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=abhinnayadav.abhinnayadav)
